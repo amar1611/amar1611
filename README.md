@@ -26,6 +26,7 @@
 
 ### 📚 Latest Medium Story
 <!-- MEDIUM-STORY-LIST:START -->
+- [Redis with Python](https://medium.com/@amar1611/redis-with-python-a5c91e6e0164?source=rss-8b8fc8907918------2)
 - [Getting Started with Redis](https://medium.com/@amar1611/getting-started-with-redis-a3bec0877c58?source=rss-8b8fc8907918------2)
 - [Getting Started With ELK Stack](https://medium.com/@amar1611/getting-started-with-elk-stack-71f375434b30?source=rss-8b8fc8907918------2)
 <!-- MEDIUM-STORY-LIST:END -->
